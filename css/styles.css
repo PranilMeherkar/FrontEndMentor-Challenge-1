@@ -55,19 +55,19 @@ body {
 .followers {
   display: inline-block;
   text-align: center;
-  width: 112px;
+  width: 110px;
 }
 
 .likes {
   display: inline-block;
   text-align: center;
-  width: 112px;
+  width: 110px;
 }
 
 .photos {
   display: inline-block;
   text-align: center;
-  width: 112px;
+  width: 110px;
 }
 
 h3 {
