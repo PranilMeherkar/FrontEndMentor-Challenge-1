@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-[Screenshot](file:///images/Screenshot.png)
+[Screenshot](images/Screenshot.png)
 
 ### Links
 
