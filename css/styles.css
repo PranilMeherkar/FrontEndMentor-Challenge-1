@@ -1,0 +1,104 @@
+body {
+  width: 1440px;
+  margin: 0;
+}
+
+.topbox {
+  background-color: hsl(185, 75%, 39%);
+  width: 1440px;
+  height: 720px;
+  margin: 0;
+  position: relative;
+}
+
+.topimage {
+  position: absolute;
+  left: -300px;
+  top: -480px;
+}
+
+
+.details {
+  max-width: 350px;
+  position: absolute;
+  left: 545px;
+  top: 159px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 15px;
+  z-index: 1;
+}
+
+.detailsimages {
+  width: 350px;
+  position: relative;
+}
+
+
+.dpimage {
+  position: absolute;
+  border-radius: 53px;
+  border: 5px solid white;
+  left: 127px;
+  top: 92px;
+}
+
+.bottomimage {
+  max-width: 700px;
+  max-height: 350px;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.followers {
+  display: inline-block;
+  text-align: center;
+  width: 114px;
+}
+
+.likes {
+  display: inline-block;
+  text-align: center;
+  width: 114px;
+}
+
+.photos {
+  display: inline-block;
+  text-align: center;
+  width: 114px;
+}
+
+h3 {
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+p {
+  font-family: 'Kumbh Sans', sans-serif;
+  color: gray;
+  font-size: 75%;
+}
+
+span {
+  color: gray;
+  margin : 5px;
+}
+
+.attribution {
+  font-size: 15px;
+  text-align: center;
+  margin: 15px;
+}
+
+.attribution a {
+  color: hsl(185, 75%, 39%);
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+a:hover {
+  background-color: hsl(185, 75%, 39%);
+  color: white;
+  border-radius: 5px;
+}
